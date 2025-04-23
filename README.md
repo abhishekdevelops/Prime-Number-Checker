@@ -37,7 +37,7 @@ prime-number-checker/
 
 ## 💻 How to Use
 
-1. Open the project in your browser (https://abhishekdevelops.github.io/prime-number-checker)
+1. Open the project in your browser (https://abhishekdevelops.github.io/Prime-Number-Checker)
 2. Enter any number in the input field
 3. Click the **"Check Prime"** button
 4. The result will appear below the button
@@ -57,7 +57,7 @@ prime-number-checker/
 
 ## 🌐 Live Demo
 
-[View Demo](https://abhishekdevelops.github.io/prime-number-checker)
+[View Demo](https://abhishekdevelops.github.io/Prime-Number-Checker)
 
 ---
 
